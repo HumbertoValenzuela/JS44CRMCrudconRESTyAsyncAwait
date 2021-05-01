@@ -1,0 +1,25 @@
+{
+  "clientes": [
+    {
+      "nombre": "humberto Rodolfo",
+      "email": "Correo@gmail.com",
+      "telefono": "111111111",
+      "empresa": "Empresa",
+      "id": 3
+    },
+    {
+      "nombre": "humberto garrido",
+      "email": "gmail@gmail.com",
+      "telefono": "3333333",
+      "empresa": "Valenzuela{}",
+      "id": 5
+    },
+    {
+      "nombre": "humberto valenzuela",
+      "email": "hvg.infformatico@gmail.com",
+      "telefono": "966299793",
+      "empresa": "Valenzuela Success",
+      "id": 6
+    }
+  ]
+}
